@@ -1,0 +1,12 @@
+---
+name: TaiChung City Education Network Center 
+address:
+  https: https://ftp.tc.edu.tw/Linux/almalinux/
+update_frequency: 8h
+geolocation:
+  country: TW
+  city: Taichung City
+sponsor: TaiChung City Education Network Center
+sponsor_url: http://www.tc.edu.tw/
+email: rray@tc.edu.tw
+...
